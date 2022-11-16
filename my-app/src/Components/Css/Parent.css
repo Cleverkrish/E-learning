@@ -1,0 +1,59 @@
+.image img{
+    width: 100%;
+    height: 450px;
+}
+
+.top-right{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+}
+
+/**------- Parent text styles------**/
+h3{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+p{
+    margin: auto;
+  width:90%; 
+  padding: 30px;
+  font-size: 1.5rem;
+  font-family: 'Lexend Deca', sans-serif; 
+  color: grey;   
+
+}
+
+.textItem{
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.List ul{
+   text-align: center;
+   list-style-position: inside;
+   font-size: 2rem;
+   font-weight: 30px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/**----Image logos styles----**/
+
+.ParentImg{
+  display: flex;
+  justify-content: center;
+}
+
+.ParenImg{
+  display: flex;
+  justify-content: center;
+}
+
+.ParImg{
+  display: flex;
+  justify-content: center;
+}
